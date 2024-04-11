@@ -1219,7 +1219,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .form-btn:disabled:hover { background: var(--border-gradient-onyx); }
 
-.service:hover { background: var(--border-gradient-onyx); }
+.service:hover { background: var(--bg-gradient-onyx); }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
